@@ -25,6 +25,6 @@ This notebook is released under the [CeCILL-B](https://spdx.org/licenses/CECILL-
   number  = {1},
   pages   = {13--23},
   year    = {2020},
-  month   = dec,
+  month   = dec
 }
 ```
