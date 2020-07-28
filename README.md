@@ -17,7 +17,7 @@ This notebook is released under the [CeCILL-B](https://spdx.org/licenses/CECILL-
 - M. El Gheche, G. Chierchia, and P. Frossard. "OrthoNet: Multilayer Network Data Clustering," IEEE Transactions on Signal and Information Processing over Networks, Vol. 6, No. 1, pp. 13-23, December 2020.
 
 ```
-@Article{ElGheche2019_tsipn,
+@Article{ElGheche2020_tsipn,
   author  = {El Gheche, M. and Chierchia, G. and Frossard, P.},
   title   = {OrthoNet: Multilayer Network Data Clustering},
   journal = {IEEE Transactions on Signal and Information Processing over Networks},
